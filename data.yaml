@@ -1,0 +1,7 @@
+path: C:\Users\user\OneDrive\Documents\CODES\Object detection project\data
+train: train\images
+val: validation\images
+
+nc: 8
+
+names: ["calculator", "chair", "earth globe model", "headphones", "mechanical pencil", "monkey", "sandels", "watch"]

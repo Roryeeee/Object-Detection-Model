@@ -1,0 +1,3 @@
+This folder originally contained 139 training images.
+Images were removed to protect personal privacy.
+Folder structure preserved for reproducibility.
